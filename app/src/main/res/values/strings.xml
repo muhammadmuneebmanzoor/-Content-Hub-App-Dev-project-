@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Content Hub</string>
+    <string name="platform_subtitle">Cloud-Synced Content Platform</string>
+    <string name="offline_mode_active">Offline Mode Active • Showing cached payload</string>
+    <string name="online_synced">Cloud Synced • Real-time payload</string>
+    <string name="sync_now">Sync Now</string>
+    <string name="retry_connection">Retry Connection</string>
+    <string name="search_hint">Search articles, tags, authors...</string>
+    <string name="no_articles_found">No content matching criteria</string>
+</resources>
+
